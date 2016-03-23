@@ -1,0 +1,13 @@
+//
+//  ios-common.xcconfig
+//  HelloWorktile
+//
+//  Created by Frank Lin on 3/23/16.
+//  Copyright © 2016 Frank Lin. All rights reserved.
+//
+
+IPHONEOS_DEPLOYMENT_TARGET = 8.0
+
+PRODUCT_NAME = HelloWorktile
+
+HEADER_SEARCH_PATHS = ../../vendor ../../core ../../cocoa
