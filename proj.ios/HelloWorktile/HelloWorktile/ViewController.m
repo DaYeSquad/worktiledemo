@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
   
+  // 在正常的应用中，此处通常来自于 HTTP 请求，我们将在下一个 Example 中提供 HTTP 以及线程的策略
   NSString *exampleJSON = @"{\
   \"uid\":\"679efdf3960d45a0b8679693098135ff\",\
   \"name\":\"gonglinjie\",\
